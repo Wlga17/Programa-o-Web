@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+form{
+    margin-top: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.div-btn, .div-title-img{
+    text-align: center;
+}
